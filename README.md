@@ -7,7 +7,7 @@ End-to-End Machine Learning Pipeline | Rice Grain Classification (Cammeo vs Osma
 
 This project is a complete Machine Learning pipeline built to classify two types of rice grains (**Cammeo** vs **Osmancik**) using morphological features. It demonstrates real-world ML engineering skills: EDA, feature engineering, model comparison, cross-validation, and deployment.
 
-**Live Demo**: [Click here to try the app](https://your-streamlit-link-will-appear-here-after-deploy) *(will be live after Step 5)*
+**Live Demo**: [Click here to try the app]([https://your-streamlit-link-will-appear-here-after-deploy](https://rice-grain-classification-end-to-end-ml-pipeline-cb2xsbovtjqe4.streamlit.app/)) *(will be live after Step 5)*
 
 ## 🎯 Business Impact
 - Agri-tech quality control automation
